@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"InternshipExercises"</string>
+    <string name="label_counter_tv">"Label Value"</string>
+    <string name="counter_value_tv">"Counter Value"</string>
+    <string name="increment_bt">"Increment Button"</string>
+    <string name="number_of_clicks">"Number of clicks"</string>
+    <string name="counter">"0"</string>
+    <string name="click_me">Click me!</string>
+
+</resources>
